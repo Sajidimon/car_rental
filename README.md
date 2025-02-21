@@ -2,6 +2,8 @@
 
 A complete **Car Renting System** built using **Laravel**, **Vue.js**, and **Inertia.js**. This monolithic project offers seamless car rental management for customers and admins, ensuring a smooth and efficient experience.
 
+project presentation video: https://drive.google.com/file/d/1Fb_TQjECz7ScSpGe3-h8S2mpW3Ej7SUU/view?usp=sharing
+
 ## 📌 Features
 
 ### 🧑‍💼 Customer
